@@ -150,11 +150,6 @@ a {
 }
 
 
-
-
-
-
-
 /*WEATHER ANIMATIONS:*/
 
 
@@ -164,7 +159,7 @@ a {
   background:-webkit-gradient(linear,0% 0%,0% 100%, from(rgba(255,255,255,1) ), to(rgba(255,255,255,0.6))  );
   background: -moz-linear-gradient(top, rgba(13,52,58,1) 0%, rgba(255,255,255,.6) 100%);
   width:1px;
-  height:89px;
+  height:29px;
   position: absolute;
   bottom:200px;
   -webkit-animation: fall 1s linear infinite;
@@ -279,148 +274,6 @@ a {
 }
 
 
-@-webkit-keyframes sunrolling {
-    0% {
-        -webkit-transform: rotate(0deg);
-        -moz-transform: rotate(0deg);
-        -o-transform: rotate(0deg);
-        -ie-transform: rotate(0deg);
-        transform: rotate(0deg);
-    }
-    100% {
-        -webkit-transform: rotate(180deg);
-        -moz-transform: rotate(180deg);
-        -o-transform: rotate(180deg);
-        -ie-transform: rotate(180deg);
-        transform: rotate(180deg);
-    }
-}
-
-@-moz-keyframes sunrolling {
-    0% {
-        -webkit-transform: rotate(0deg);
-        -moz-transform: rotate(0deg);
-        -o-transform: rotate(0deg);
-        -ie-transform: rotate(0deg);
-        transform: rotate(0deg);
-    }
-    100% {
-        -webkit-transform: rotate(180deg);
-        -moz-transform: rotate(180deg);
-        -o-transform: rotate(180deg);
-        -ie-transform: rotate(180deg);
-        transform: rotate(180deg);
-    }
-}
-
-@-ms-keyframes sunrolling {
-    0% {
-        -webkit-transform: rotate(0deg);
-        -moz-transform: rotate(0deg);
-        -o-transform: rotate(0deg);
-        -ie-transform: rotate(0deg);
-        transform: rotate(0deg);
-    }
-    100% {
-        -webkit-transform: rotate(180deg);
-        -moz-transform: rotate(180deg);
-        -o-transform: rotate(180deg);
-        -ie-transform: rotate(180deg);
-        transform: rotate(180deg);
-    }
-}
-
-@keyframes sunrolling {
-    0% {
-        -webkit-transform: rotate(0deg);
-        -moz-transform: rotate(0deg);
-        -o-transform: rotate(0deg);
-        -ie-transform: rotate(0deg);
-        transform: rotate(0deg);
-    }
-    100% {
-        -webkit-transform: rotate(180deg);
-        -moz-transform: rotate(180deg);
-        -o-transform: rotate(180deg);
-        -ie-transform: rotate(180deg);
-        transform: rotate(180deg);
-    }
-}
-
 /*SUN ANIMATE*/
 
 /* sun */
-/* sun */
-
-@-webkit-keyframes sunrolling {
-    0% {
-        -webkit-transform: rotate(0deg);
-        -moz-transform: rotate(0deg);
-        -o-transform: rotate(0deg);
-        -ie-transform: rotate(0deg);
-        transform: rotate(0deg);
-    }
-    100% {
-        -webkit-transform: rotate(180deg);
-        -moz-transform: rotate(180deg);
-        -o-transform: rotate(180deg);
-        -ie-transform: rotate(180deg);
-        transform: rotate(180deg);
-    }
-}
-
-@-moz-keyframes sunrolling {
-    0% {
-        -webkit-transform: rotate(0deg);
-        -moz-transform: rotate(0deg);
-        -o-transform: rotate(0deg);
-        -ie-transform: rotate(0deg);
-        transform: rotate(0deg);
-    }
-    100% {
-        -webkit-transform: rotate(180deg);
-        -moz-transform: rotate(180deg);
-        -o-transform: rotate(180deg);
-        -ie-transform: rotate(180deg);
-        transform: rotate(180deg);
-    }
-}
-
-@-ms-keyframes sunrolling {
-    0% {
-        -webkit-transform: rotate(0deg);
-        -moz-transform: rotate(0deg);
-        -o-transform: rotate(0deg);
-        -ie-transform: rotate(0deg);
-        transform: rotate(0deg);
-    }
-    100% {
-        -webkit-transform: rotate(180deg);
-        -moz-transform: rotate(180deg);
-        -o-transform: rotate(180deg);
-        -ie-transform: rotate(180deg);
-        transform: rotate(180deg);
-    }
-}
-
-@keyframes sunrolling {
-    0% {
-        -webkit-transform: rotate(0deg);
-        -moz-transform: rotate(0deg);
-        -o-transform: rotate(0deg);
-        -ie-transform: rotate(0deg);
-        transform: rotate(0deg);
-    }
-    100% {
-        -webkit-transform: rotate(180deg);
-        -moz-transform: rotate(180deg);
-        -o-transform: rotate(180deg);
-        -ie-transform: rotate(180deg);
-        transform: rotate(180deg);
-    }
-}
-
-
-
-
-

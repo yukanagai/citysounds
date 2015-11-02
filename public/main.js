@@ -67,7 +67,7 @@ var MusicApp = React.createClass({
 					animateClear();
 				} else if (weatherKeyword == "Haze" ) {
 					animateHaze();
-				} else if (weatherKeyword == "Rain") {
+				} else if (weatherKeyword == "Rain" || weatherKeyword == "Thunderstorm") {
 					 animateRain();
 				} else {
 					return;

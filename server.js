@@ -25,6 +25,8 @@ var scopes = 'user-read-private user-read-email';
 var echoKey = '6ZYD20T5AIRI1KWF6';
 
 
+
+
 // Catching the "city" keyword + sending AJAX call to 
 // Echo Nest to fetch artists from that city
 app.get('/fetchArtists', function(req, res) {

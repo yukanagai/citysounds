@@ -20,5 +20,8 @@
     "react.animate": "^1.0.0",
     "request": "^2.65.0",
     "spotify-web-api-node": "^2.1.0"
-  }
+  },
+   "engines" : {
+      "node" : "4.1.1"
+    },
 }

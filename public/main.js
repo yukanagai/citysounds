@@ -1,4 +1,3 @@
-
 var App = React.createClass({
 	render: function() {
 		return (
@@ -16,7 +15,7 @@ var Title = React.createClass({
 		return(
 			<div id="title">
 				<h1 id="title1">CITY/SOUNDS.io</h1>
-				<h4 id="title2">Create playlists out of cities from around the world.</h4>
+				<h4 id="title2">Create playlists out of cities.</h4>
 			</div>
 		);
 	}

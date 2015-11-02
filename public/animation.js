@@ -11,6 +11,6 @@ function animateHaze(weatherKeyword) {
 };
 
 function animateRain() {
-	alert("YAY");
+	alert("hello?");
 	document.getElementById('#drop').style.display="block";
 };

@@ -7,7 +7,8 @@ body {
   	padding: 0px;
   	height: 100%;
   	overflow: hidden;
- /* 	background: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/53148/galaxy_1.jpg') #000;*/
+  	background: url('/galaxy.jpg') #000;
+    background-image: cover;
 }
 
 #canvas {
@@ -149,10 +150,7 @@ a {
 }
 
 
-
-
 .drop {
-	display: none;
   background:-webkit-gradient(linear,0% 0%,0% 100%, from(rgba(255,255,255,1) ), to(rgba(255,255,255,0.6))  );
   background: -moz-linear-gradient(top, rgba(13,52,58,1) 0%, rgba(255,255,255,.6) 100%);
   width:1px;
@@ -168,7 +166,6 @@ a {
 }
  
 .cloud {
-	display: none;
     width: 200px;
     height: 60px;
     background: #fff;

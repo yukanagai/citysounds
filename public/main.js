@@ -58,6 +58,8 @@ var MusicApp = React.createClass({
 			   $('#weatherDescription').html(currentWeatherDescrpt);
 			   $('#weatherCity').html(city);
 
+			   console.log(weatherKeyword);
+
 			   // Initiating animation based on weather condition:
 			   if (weatherKeyword == "Clouds") {
 					animateClouds();
@@ -70,7 +72,6 @@ var MusicApp = React.createClass({
 				} else {
 					return;
 				};
-
 			}.bind(this)
 		});
 	},

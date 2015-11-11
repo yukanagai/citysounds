@@ -1,4 +1,6 @@
-# CITYSOUNDS.IO - create playlists out of cities.
+# CITYSOUNDS.IO 
+
+<strong>Create playlists out of cities.</strong>
 
 CITY/SOUNDS is a location-based playlist generator that creates playlists out of artists from a city. Each city’s real-time weather condition in animated using CSS3.
 
